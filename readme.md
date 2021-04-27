@@ -1,0 +1,1 @@
+Parei no Lib.py na linha 97 tradução
