@@ -25,16 +25,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://python.org/)
 
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd FERRAMENTA-BÁSICA-PENTEST
-
-# Vá para a pasta server
-$ python3 main.py
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333> 
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
 </h4>
