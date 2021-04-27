@@ -7,4 +7,4 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🛠️ Ferramentas</a>
 </h1>
-<p align="center">🛠️ NMAP, NIKTO, UNICORNSCAN, WPSCAN</p>
+<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN</p>
