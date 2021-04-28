@@ -19,7 +19,8 @@
 - [x] UNICORDSCAN
 - [x] WPSCAN
 - [x] WIRESHARK
- 🛠 Tecnologias
+
+🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -28,7 +29,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Nikto](https://github.com/sullo/nikto)
 - [UnicornScan](https://tools.kali.org/information-gathering/unicornscan)
 - [WPSCAN](https://github.com/wpscanteam/wpscan)
-- [Wiresharl](https://gitlab.com/kalilinux/packages/wireshark)
+- [Wireshark](https://gitlab.com/kalilinux/packages/wireshark)
+
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
 </h4>
