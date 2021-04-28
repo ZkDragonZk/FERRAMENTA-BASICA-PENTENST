@@ -17,7 +17,7 @@
 - [x] NMAP
 - [x] NIKTO
 - [x] UNICORDSCAN
-- [ ] WPSCAN
+- [x] WPSCAN
 
  🛠 Tecnologias
 
@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NMAP](https://nmap.org/)
 - [Nikto](https://github.com/sullo/nikto)
 - [UnicornScan](https://tools.kali.org/information-gathering/unicornscan)
-
+- [WPscan](https://github.com/wpscanteam/wpscan)
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
 </h4>
