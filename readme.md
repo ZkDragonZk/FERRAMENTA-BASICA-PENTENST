@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🛠️ Ferramentas</a>
 </h1>
-<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN</p>
+<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN, WIRESHARK</p>
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🤑 Nossas Ideias</a>
 </h1>
@@ -18,7 +18,7 @@
 - [x] NIKTO
 - [x] UNICORDSCAN
 - [x] WPSCAN
-
+- [x] WIRESHARK
  🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -27,7 +27,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [NMAP](https://nmap.org/)
 - [Nikto](https://github.com/sullo/nikto)
 - [UnicornScan](https://tools.kali.org/information-gathering/unicornscan)
-- [WPscan](https://github.com/wpscanteam/wpscan)
+- [WPSCAN](https://github.com/wpscanteam/wpscan)
+- [Wiresharl](https://gitlab.com/kalilinux/packages/wireshark)
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
 </h4>
