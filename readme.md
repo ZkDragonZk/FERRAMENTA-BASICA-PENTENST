@@ -31,7 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [UnicornScan](https://tools.kali.org/information-gathering/unicornscan)
 - [WPSCAN](https://github.com/wpscanteam/wpscan)
 - [Wireshark](https://gitlab.com/kalilinux/packages/wireshark)
-- [Wordlist](https://github.com/jeanphorn/wordlist)
+- [WordList](https://github.com/jeanphorn/wordlist)
 - [WordList](https://github.com/berzerk0/Probable-Wordlists)
 
 <h4 align="center"> 
