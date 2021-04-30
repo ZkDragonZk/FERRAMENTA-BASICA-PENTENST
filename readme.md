@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🛠️ Ferramentas</a>
 </h1>
-<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN, WIRESHARK, WORDLIST, GHOST</p>
+<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN, WIRESHARK, WORDLIST, GHOST, LAZZY</p>
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🤑 Nossas Ideias</a>
 </h1>
@@ -35,6 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [WordList](https://github.com/jeanphorn/wordlist)
 - [WordList](https://github.com/berzerk0/Probable-Wordlists)
 - [GhostPisher](https://gitlab.com/kalilinux/packages/ghost-phisher.git)
+- [Lazzy](https://github.com/Gameye98/Lazymux )
 
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
