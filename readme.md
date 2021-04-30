@@ -7,7 +7,7 @@
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🛠️ Ferramentas</a>
 </h1>
-<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN, WIRESHARK, WORDLIST</p>
+<p align="center"> 🤠 NMAP, NIKTO, UNICORNSCAN, WPSCAN, WIRESHARK, WORDLIST, GHOST</p>
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🤑 Nossas Ideias</a>
 </h1>
@@ -20,6 +20,7 @@
 - [x] WPSCAN
 - [x] WIRESHARK
 - [x] WORDLIST
+- [x] Ghost
 
 🛠 Tecnologias
 
@@ -33,6 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Wireshark](https://gitlab.com/kalilinux/packages/wireshark)
 - [WordList](https://github.com/jeanphorn/wordlist)
 - [WordList](https://github.com/berzerk0/Probable-Wordlists)
+- [GhostPisher](https://gitlab.com/kalilinux/packages/ghost-phisher.git)
 
 <h4 align="center"> 
 	🚧  Ferramenta Select  Em construção...  🚧
