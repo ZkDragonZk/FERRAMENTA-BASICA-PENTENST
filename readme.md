@@ -21,6 +21,7 @@
 - [x] WIRESHARK
 - [x] WORDLIST
 - [x] Ghost
+- [x] Lazzy
 
 🛠 Tecnologias
 
