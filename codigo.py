@@ -15,6 +15,7 @@ def pentesting():
 [3] - UnicornScan
 [4] - Wpscan
 [5] - Wireshark
+[6] - Ghost
 [0] - menu inicial
         ''')
 
@@ -175,6 +176,35 @@ def pentesting():
                 elif answer.lower() == 'n':
                     sys.exit("te vejo em breve!")  
 ####################################################################################################################
+        elif answer == '6':
+            if platform.system() == 'Windows':
+                print(f"Sua plataforma é: {platform.system()}, você tem que baixar no site:\n  https://gitlab.com/kalilinux/packages/ghost-phisher")
+
+                answer = input("Voltar ao menu: [Y/n] ")
+                while answer.lower() not in  ['y', 'n', '']:
+                    print("Seleciona uma valida: ")
+                    answer = input()
+                if answer.lower() == 'y':
+                    return menu.home()
+                elif bool(answer) == False:
+                    return menu.home()
+                elif answer.lower() == 'n':
+                    sys.exit("te vejo em breve!")
+            elif platform.system() == 'Linux':
+                print(os.system("git clone https://gitlab.com/kalilinux/packages/ghost-phisher.git tools/ghost"))
+                os.system("clear")
+                print(f"{Fore.RED}[!] ghost baixado com sucesso abra a pasta tools.")
+                print("\n")
+                answer = input("Voltar ao menu: [Y/n]  ")
+                while answer.lower() not in ['y', 'n', '']:
+                    print("seleciona uma valida: ")
+                    answer = input()
+                if answer.lower() == 'y':
+                    return menu.home()
+                elif bool(answer) == False:
+                    return menu.home()
+                elif answer.lower() == 'n':   
+                    sys.exit("te vejo em breve!")  
 
     except KeyboardInterrupt:
         sys.exit("\n\nU pressed CTRL + C (ノಠ益ಠ)ノ彡┻━┻ ")
